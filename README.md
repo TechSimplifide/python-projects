@@ -8,7 +8,14 @@ This is a simple Python command-line game that simulates rolling two dice.
 <details>
 <summary style="border:2px solid pink; padding-left:4px; border-radius:4px; margin-top:0.6rem;
 cursor:pointer">
-1. Basic Calculator 🧮
+2. Basic Calculator 🧮
 </summary>
 This is a simple Python command-line calculator.
+</details>
+<details>
+<summary style="border:2px solid pink; padding-left:4px; border-radius:4px; margin-top:0.6rem;
+cursor:pointer">
+3. Number guessing game 🔢🤔
+</summary>
+This is a simple Python command-line number guessing game.
 </details>
