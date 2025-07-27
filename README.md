@@ -26,3 +26,11 @@ cursor:pointer">
 </summary>
 This is a simple Python command-line rock-paper-scissor game.
 </details>
+<details>
+<summary style="border:2px solid pink; padding-left:4px; border-radius:4px; margin-top:0.6rem;
+cursor:pointer">
+5. Simple Expense tracker tool📃
+</summary>
+This is a simple Python command-line Expense Tracker tool.
+It keeps the records of all the expenses in a csv file.
+</details>
