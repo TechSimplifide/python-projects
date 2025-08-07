@@ -34,3 +34,11 @@ cursor:pointer">
 This is a simple Python command-line Expense Tracker tool.
 It keeps the records of all the expenses in a csv file.
 </details>
+<details>
+<summary style="border:2px solid pink; padding-left:4px; border-radius:4px; margin-top:0.6rem;
+cursor:pointer">
+6. Simple Palindrome checker
+</summary>
+This is a simple Python command-line Palindrome checker.
+It keeps the records of all the palindromes in a text file.
+</details>
